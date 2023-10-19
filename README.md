@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Hughes
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Backend Development 
 - 💞️ I’m looking to collaborate on Web and App Development
 - 📫 How to reach me - hughesgeorgeking@gmail.com
 
